@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(249, 120, 141);
+}
+h1{
+    text-align: center;
+}
+ul li {
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    height: auto;
+    width: 250px;
+}
